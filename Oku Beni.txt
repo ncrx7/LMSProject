@@ -1,0 +1,7 @@
+Finaller, memleket, kuzenimin nişanı nikahı derken yetiştiremediğim bazı şeyler;
+
+1- Gelişmiş user sistemi.
+2- Gerçek veritabanı kullanımı.
+3- Library class'ın da ki bağımlılıkların kaldırılması(UI ve işlevsel fonksiyonlar bir arada).
+4- Gelişmiş arama fonksiyonları ve refactor
+5- Daha işlevsel arayüz

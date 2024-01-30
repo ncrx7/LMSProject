@@ -1,0 +1,7 @@
+1, To Kill a Mockingbird, Harper Lee, 9780061120084, 63
+2, 1984, George Orwell, 9780451524935, 25
+3, The Great Gatsby, F. Scott Fitzgerald, 9780743273565, 32
+4, The Catcher in the Rye, J.D. Salinger, 9780316769480, 82
+5, Pride and Prejudice, Jane Austen, 9780141439518, 63
+6, sherlock holmes, Arthur Ignatius Conan Doyle, 9780192823786, 8
+7, Labirent: Ölümcül Kaçış James Dashner, James Dashner, 9783844903935, 40

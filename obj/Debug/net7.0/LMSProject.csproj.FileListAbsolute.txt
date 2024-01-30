@@ -1,0 +1,15 @@
+C:\Users\gsb4t\LMSProject\bin\Debug\net7.0\LMSProject.exe
+C:\Users\gsb4t\LMSProject\bin\Debug\net7.0\LMSProject.deps.json
+C:\Users\gsb4t\LMSProject\bin\Debug\net7.0\LMSProject.runtimeconfig.json
+C:\Users\gsb4t\LMSProject\bin\Debug\net7.0\LMSProject.dll
+C:\Users\gsb4t\LMSProject\bin\Debug\net7.0\LMSProject.pdb
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.csproj.AssemblyReference.cache
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.AssemblyInfoInputs.cache
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.AssemblyInfo.cs
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.csproj.CoreCompileInputs.cache
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.dll
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\refint\LMSProject.dll
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.pdb
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\LMSProject.genruntimeconfig.cache
+C:\Users\gsb4t\LMSProject\obj\Debug\net7.0\ref\LMSProject.dll
