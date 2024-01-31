@@ -1,4 +1,4 @@
-1, To Kill a Mockingbird, Harper Lee, 9780061120084, 63
+1, To Kill a Mockingbird, Harper Lee, 9780061120084, 61
 2, 1984, George Orwell, 9780451524935, 25
 3, The Great Gatsby, F. Scott Fitzgerald, 9780743273565, 32
 4, The Catcher in the Rye, J.D. Salinger, 9780316769480, 82

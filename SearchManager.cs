@@ -3,7 +3,7 @@ namespace LMSProject
     static class SearchManager
     {
         //public static List<Book> nullList = new List<Book>();
-        public static int SearchBook(string? bookName = "", string id = "", SearchLevel searchLevel = SearchLevel.Name, List<Book>? books = null)
+        public static int SearchBook(string? bookName = "", string id = "", SearchLevel searchLevel = SearchLevel.BothAuthorAndTitleName, List<Book>? books = null)
         {
             int bookIndex = -1;
             int lengthOfBooksList = books.Count;
@@ -13,11 +13,12 @@ namespace LMSProject
             {
                 var obj = books[i];
                 string titleWithouSpace = RemoveSpaces(obj.Title);
+                string authorNameWithoutSpace = RemoveSpaces(obj.Author);
 
                 switch (searchLevel)
                 {
-                    case SearchLevel.Name:
-                        if (titleWithouSpace == nameWihoutSpace)
+                    case SearchLevel.BothAuthorAndTitleName:
+                        if (titleWithouSpace == nameWihoutSpace || authorNameWithoutSpace == nameWihoutSpace)
                         {
                             bookIndex = i;
                             return bookIndex;
@@ -31,7 +32,7 @@ namespace LMSProject
                         }
                         break;
                     case SearchLevel.BothNameAndId:
-                        if (titleWithouSpace == nameWihoutSpace || nameWihoutSpace == obj.id)
+                        if (titleWithouSpace == nameWihoutSpace || nameWihoutSpace == obj.id || nameWihoutSpace == authorNameWithoutSpace)
                         {
                             bookIndex = i;
                             return bookIndex;
@@ -74,7 +75,7 @@ namespace LMSProject
 
         public enum SearchLevel
         {
-            Name,
+            BothAuthorAndTitleName,
             Id,
             Author,
             BothNameAndId,
