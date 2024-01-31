@@ -5,3 +5,4 @@ Finaller, memleket, kuzenimin nişanı nikahı derken yetiştiremediğim bazı �
 3- Library class'ın da ki bağımlılıkların kaldırılması(UI ve işlevsel fonksiyonlar bir arada).
 4- Gelişmiş arama fonksiyonları ve refactor
 5- Daha işlevsel arayüz
+6- Dependency injection ile initialize (bu konuya çok hakim olmadığım için ve proje için bana birkaç günlük zaman kaldığınadan dolayı yapmadım. Bir sonraki görevimde kullanmaya çalışıcam.)
